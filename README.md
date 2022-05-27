@@ -1,6 +1,5 @@
 ## Personal Portfolio Website.
-
-## Credits brittanychiang.com
+ Credits brittanychiang.com
 
 
 
